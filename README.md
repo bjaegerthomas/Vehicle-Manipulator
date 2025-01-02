@@ -45,15 +45,19 @@
 
   ![Actions available](./assets/actions.png)
 
-  You will need to start the vehicle before you are able to perform other actions on it like accelerating or decelerating. You may continue to manipulate the vehicle as much as you want via the commands listed. When you are finished with the current vehicle you can choose the option "select or create another vehicle" to continue using the program with a different vehicle.
+  In order to see all of the options available for the vehicle you have selected you will need to navigate up and down using the arrow keys. The options will continue to loop in order no matter which diirection you navigate.
+  
+  You will need to start the vehicle before you are able to perform actions on it like accelerating or decelerating. You may continue to manipulate the vehicle as much as you want via the commands listed. When you are finished with the current vehicle you can choose the option "select or create another vehicle" to continue using the program with a different vehicle.
 
-  When you have finsihed with the program completely, simply choose the "exit" option from the list of proposed actions.
+  When you have finished with the program completely, simply choose the "exit" option from the list of proposed actions.
 
   ----------------------------------------------------------------------------------------------------------------------
 
   The actions available for manipulating the vehicles are the same for each style of vehicle but there are two additional actions available depending on the vehicle choosen.
 
   When choosing a motorbike you will have an additional option of doing a "wheelie."
+
+  
 
   When choosing a truck you will have an additional opition of "towing" another vehicle choosen at random.
 
