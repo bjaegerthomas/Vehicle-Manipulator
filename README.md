@@ -45,7 +45,7 @@
 
   ![Actions available](./assets/actions.png)
 
-  In order to see all of the options available for the vehicle you have selected you will need to navigate up and down using the arrow keys. The options will continue to loop in order no matter which diirection you navigate.
+  In order to see all of the options available for the vehicle you have selected you will need to navigate up and down using the arrow keys. The options will continue to loop in order no matter which direction you navigate.
   
   You will need to start the vehicle before you are able to perform actions on it like accelerating or decelerating. You may continue to manipulate the vehicle as much as you want via the commands listed. When you are finished with the current vehicle you can choose the option "select or create another vehicle" to continue using the program with a different vehicle.
 
@@ -59,7 +59,7 @@
 
   ![Wheelie](./assets/wheelie.png)
 
-  When choosing a truck you will have an additional opition of "Tow"ing another vehicle choosen at random.
+  When choosing a truck you will have an additional option of "Tow"-ing another vehicle.
 
   ![Tow](./assets/tow.png)
 
@@ -67,17 +67,17 @@
 
   ![Towing options](./assets/tow-options.png)
 
-  Once you have selected a vehicle and hit enter it should display that you are towing the selected vehicle.
+  Once you have selected a vehicle and hit enter the program will state that you are towing the selected vehicle.
 
   ![Towing vehicle](./assets/towing-vehicle.png)
 
   ----------------------------------------------------------------------------------------------------------------------
 
-  Finally if you would like to create your own vehicle to add to the list of available vehicles to choose from select "Create a new vehicle" instead of "Select and existing vehicle."
+  Finally if you would like to create your own vehicle to add to the list of available vehicles to choose from, select "Create a new vehicle":
 
   ![Create vehicle](./assets/create.png)
 
-  Then choose the type of vehcile you would like to create:
+  Then choose the type of vehicle you would like to create:
 
   ![Vehicle choices](./assets/vehicle-type.png)
 
@@ -109,7 +109,7 @@
 
   ![Vehicle towing capacity](./assets/capacity.png)
 
-  Once you have entered the towing capacity (a truck only option) you will then be offered the ability to perform actions on your created vehicle same as before.
+  Once you have entered the towing capacity (a truck only option) you will then be offered the ability to perform actions on your created vehicle.
 
   ![Vehicle creation complete](./assets/complete.png)
 
