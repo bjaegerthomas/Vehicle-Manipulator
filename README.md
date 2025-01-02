@@ -15,18 +15,18 @@
   - [Questions](#questions)
 
   ## Description
-  This program will allow you to either create a new vehicle and manipulate it from a set of listed actions or choose from a selection of already created vehicles to manipulate.  In addition any vehicles created wiill then be added to the list of previously generated vehicles and be usable from then on.
+  This program will allow you to either create a new vehicle and manipulate it from a set of listed actions or choose from a selection of already created vehicles to manipulate.  In addition any vehicles created will then be added to the list of previously generated vehicles and be usable from then on.
 
   ## Installation
   First you will need to clone the repo to your own local storage. 
   
-  git clone git@github.com:bjaegerthomas/Vehicle-Manipulator.git
+  `` git clone git@github.com:bjaegerthomas/Vehicle-Manipulator.git ``
   
   Then you will navigate to the "dist" folder inside the localalized repo you just created.
 
   Once inside the dist folder you will simply type from the terminal line:
 
-  node index.js
+  `` node index.js ``
 
   Then hit enter to initialize the program.
 
