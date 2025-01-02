@@ -55,19 +55,83 @@
 
   The actions available for manipulating the vehicles are the same for each style of vehicle but there are two additional actions available depending on the vehicle choosen.
 
-  When choosing a motorbike you will have an additional option of doing a "wheelie."
+  When choosing a motorbike you will have an additional option of doing a "Wheelie."
 
-  
+  ![Wheelie](./assets/wheelie.png)
 
-  When choosing a truck you will have an additional opition of "towing" another vehicle choosen at random.
+  When choosing a truck you will have an additional opition of "Tow"ing another vehicle choosen at random.
+
+  ![Tow](./assets/tow.png)
+
+  Once you have selected the "Tow" option you will be asked which vehicle you want to tow from the available list of vehicles.
+
+  ![Towing options](./assets/tow-options.png)
+
+  Once you have selected a vehicle and hit enter it should display that you are towing the selected vehicle.
+
+  ![Towing vehicle](./assets/towing-vehicle.png)
+
+  ----------------------------------------------------------------------------------------------------------------------
+
+  Finally if you would like to create your own vehicle to add to the list of available vehicles to choose from select "Create a new vehicle" instead of "Select and existing vehicle."
+
+  ![Create vehicle](./assets/create.png)
+
+  Then choose the type of vehcile you would like to create:
+
+  ![Vehicle choices](./assets/vehicle-type.png)
+
+  We'll choose a truck. From here it will ask you what "Color" you would like your truck to be:
+
+  ![Vehicle color](./assets/color.png)
+
+  Then it will ask for the "Make" of the truck:
+
+  ![Vehicle make](./assets/make.png)
+
+  Then it will ask for the "Model" of the truck:
+
+  ![Vehicle model](./assets/model.png)
+
+  Then it will ask for the "Year" of the truck:
+
+  ![Vehicle year](./assets/year.png)
+
+  Then it will ask for the "Weight" of the truck:
+
+  ![Vehicle weight](./assets/weight.png)
+
+  Then it will ask for the "Top Speed" of the truck:
+
+  ![Vehicle top speed](./assets/speed.png)
+
+  Then it will ask for the "Towing Capacity" of the truck:
+
+  ![Vehicle towing capacity](./assets/capacity.png)
+
+  Once you have entered the towing capacity (a truck only option) you will then be offered the ability to perform actions on your created vehicle same as before.
+
+  ![Vehicle creation complete](./assets/complete.png)
+
+  From here if you choose to "Select or create another vehicle" and then choose "Select an existing vehcile" in the following prompt, you will see your newly
+  created vehicle now available as a selectable option.
+
+  ![New vehicle available](./assets/new-vehicle.png)
 
 
   ## Contribution
   After cloning the repository be sure to create a new branch for your feature or fix.
+  Make your changes and commit them with descriptive messages.
+  Submit a Pull Request with clear explanations of your modifications.
+  Use meaningful variable names and comments.
+  Follow guidelines for Javascript and Typescript code formatting.
 
   ## Tests
-  our modifications.
+  Below is a video link walkthrough of the program being run and test answers being given to show functionality.
 
   ## Questions
+  Have any questions about this or other projects?
+  Check out my github page through the link below and feel free to reach out via the provided email address.
+
   - GitHub: [bjaegerthomas](https://github.com/bjaegerthomas)
   - Email: bjaegerthomas@gmail.com
